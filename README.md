@@ -46,7 +46,7 @@
       
 ### SFTP
 
-使用SFTP命令可以连接到服务器的文件系统，方便传输文件。常用的工具有WinSCP, FileZilla等。WinSCP适合用于较小较少文件的日常管理，FileZilla更适合少量大文件的传输。
+使用SFTP命令可以连接到服务器的文件系统，方便传输文件。常用的工具有WinSCP, FileZilla等。WinSCP适合用于较小较少文件的日常管理，FileZilla可能更适合少量大文件的传输。
 
 1. 使用WinSCP
 
@@ -74,7 +74,7 @@
 
       ![FileZilla_Login](./image/connect/sftp/filezilla_1.png)
 
-   3. 成功连接后的效果
+   3. 成功连接后的效果。FileZilla的使用方法和WinSCP类似。
 
       ![FileZilla_Login](./image/connect/sftp/filezilla_2.png)
 
