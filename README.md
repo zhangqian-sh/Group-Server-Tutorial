@@ -79,3 +79,5 @@
       ![FileZilla_Login](./image/connect/sftp/filezilla_2.png)
 
       注：WinSCP及FileZilla连接成功后远程目录内容看似不同，这是因为“.”开头的文件及文件夹在Linux系统下是隐藏的，WinSCP选择不显示而FileZilla选择显示。
+
+## 使用服务器提供的软件
