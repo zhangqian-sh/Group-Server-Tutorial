@@ -1,6 +1,6 @@
 ---
 title: 服务器使用说明
-layout: template
+layout: page
 filename: index.md
 --- 
 

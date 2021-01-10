@@ -1,6 +1,6 @@
 ---
 title: MATLAB使用说明
-layout: template
+layout: page
 filename: matlab.md
 --- 
 
