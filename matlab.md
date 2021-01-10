@@ -1,6 +1,8 @@
 ---
-title: "MATLAB使用说明"
----
+title: MATLAB使用说明
+layout: template
+filename: matlab.md
+--- 
 
 # MATLAB
 
