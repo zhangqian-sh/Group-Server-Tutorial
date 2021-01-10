@@ -10,7 +10,7 @@
 
 [SFTP连接教程](https://zhangqian-sh.github.io/Group-Server-Tutorial/connect/sftp)
 
-## 使用服务器提供的软件
+## 使用服务器上部署的软件
 
 ### MATLAB
 
