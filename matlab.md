@@ -1,6 +1,8 @@
+---
 layout: page
 title: "MATLAB使用说明"
 permalink: /software/matlab/
+---
 
 # MATLAB
 
