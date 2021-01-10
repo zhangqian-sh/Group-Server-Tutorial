@@ -1,9 +1,3 @@
----
-title: MATLAB使用说明
-layout: page
-filename: matlab.md
---- 
-
 # MATLAB
 
 1. 使用MATLAB交互式模式：
