@@ -39,3 +39,5 @@
       登录成功后效果大致如图所示
       
       ![PowerShell_Success](../image/connect/ssh/powershell_3.png)
+
+[返回主页](https://zhangqian-sh.github.io/Group-Server-Tutorial)
