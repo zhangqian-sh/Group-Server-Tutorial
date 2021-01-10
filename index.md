@@ -1,9 +1,3 @@
----
-title: 服务器使用说明
-layout: page
-filename: index.md
---- 
-
 # 服务器使用说明
 
 ## 连接到服务器
