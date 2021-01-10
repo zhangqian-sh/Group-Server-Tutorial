@@ -15,3 +15,7 @@
 ### MATLAB
 
 [MATLAB使用说明](https://zhangqian-sh.github.io/Group-Server-Tutorial/software/matlab)
+
+### Python
+
+[Python使用说明](https://zhangqian-sh.github.io/Group-Server-Tutorial/software/python)
