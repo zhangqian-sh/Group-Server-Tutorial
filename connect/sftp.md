@@ -10,7 +10,7 @@
 
       ![WinSCP_Configuration](../image/connect/sftp/winscp_1.png)
 
-   3. 建议：在登录前点击保存，保存用户名及密码，方便日常连接使用
+   3. 建议：在登录前点击保存，保存用户名及密码，方便日常连接使用。
 
       ![WinSCP_Save](../image/connect/sftp/winscp_2.png)
 

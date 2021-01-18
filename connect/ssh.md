@@ -6,37 +6,33 @@
 
    1. 安装PuTTY：https://www.chiark.greenend.org.uk/~sgtatham/putty/
 
-   2. 打开PuTTY，选中Category最上方的Session并配置服务器信息。内容包括服务器主机名、端口。建议将配置保存在一个特定的名称下。这里我设置的是Group Server。
+   2. 打开PuTTY，选中Category最上方的Session并配置服务器信息。内容包括服务器主机名、端口。建议将配置保存在一个特定的名称下。这里设置的是Group Server。
 
       ![PuTTY_Configuration](../image/connect/ssh/putty_1.png)
 
       Saved Sessions中的其它ssh配置是我登录过的其它服务器，不要在意:)
 
-   3. 输入用户名及密码，此处以alice为例
+   3. 输入用户名及密码，此处以alice为例。
 
       ![PuTTY_Login](../image/connect/ssh/putty_2.png)
 
-      
-
-      即可登录到服务器，效果大致如图所示
+      即可登录到服务器，效果大致如图所示。
 
       ![Putty_Success](../image/connect/ssh/putty_3.png)
-
-   
 
 2. 使用PowerShell连接
 
    1. 安装并启用win10自带的OpenSSH：https://jingyan.baidu.com/article/624e7459f0783274e8ba5aa3.html
 
-   2. 右键开始菜单图标，点击Windows PowerShell
+   2. 右键开始菜单图标，点击Windows PowerShell。
 
       ![PowerShell_Open](../image/connect/ssh/powershell_1.png)
 
-   3. 输入命令```ssh alice@222.29.111.107 -p 22```，将alice替换为你的用户名（下同）。然后输入密码
+   3. 输入命令`ssh alice@222.29.111.107 -p 22`，将alice替换为你的用户名（下同）。然后输入密码并回车。
 
       ![Powershell_Login](../image/connect/ssh/powershell_2.png)
       
-      登录成功后效果大致如图所示
+      登录成功后效果大致如图所示。
       
       ![PowerShell_Success](../image/connect/ssh/powershell_3.png)
 
